@@ -6,10 +6,10 @@ Web Developer
 
 I've been learning to code for 3 years, after switching careers. I started with HTML, CSS , Javascript, JQuery.
 
-* 🌍  I'm based in I'am Web Developer in India
-* ✉️  You can contact me at [margiardeshna@gmail.com](mailto:margiardeshna@gmail.com)
-* 🚀  I'm currently working on [Scion Infotech](http://scioninfotech.com)
-* 🧠  I'm learning php ,codeigniter ,RestAPI
+* 🌍  I'm based in I'am Web Developer in India
+* ✉️  You can contact me at [margiardeshna@gmail.com](mailto:margiardeshna@gmail.com)
+* 🚀  I'm currently working on [Scion Infotech](http://scioninfotech.com)
+* 🧠  I'm learning php ,codeigniter ,RestAPI
 
 ### Skills
 
@@ -28,6 +28,15 @@ I've been learning to code for 3 years, after switching careers. I started with 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/MargiAredeshna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/margi-ardeshna-59305a222" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ArdeshnaMargi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/MargiAredeshna"><img src="https://github-readme-stats.vercel.app/api?username=MargiAredeshna&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MargiAredeshna's GitHub stats" /></a>
+
+<a href="http://www.github.com/MargiAredeshna"><img src="https://activity-graph.herokuapp.com/graph?username=MargiAredeshna&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
