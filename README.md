@@ -3,7 +3,7 @@ Hi 👋 My name is Margi Ardeshna
 
 Web Developer
 -------------
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 I've been learning to code for 3 years, after switching careers. I started with HTML, CSS , Javascript, JQuery.
 
 * 🌍  I'm based in I'am Web Developer in India
