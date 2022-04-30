@@ -1,4 +1,4 @@
-[![MaterHead]](https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif)]
+[![MasterHead]](https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif)]
 <h1 align="center">Hi 👋, I'm Margi Ardeshna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
